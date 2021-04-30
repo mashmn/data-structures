@@ -12,5 +12,5 @@ Practice repo for Data Structures and Design Patterns
 
 | Name | Status | Test |
 | ------ | ------ | ------ |
-| Factory Method | Done | [x] |
-| Abstract Factory | Yet to start | [x] |
+| Factory Method | Done | [x] Success |
+| Abstract Factory | Yet to start | [x] Success |
