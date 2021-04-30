@@ -1,4 +1,4 @@
-package designpatterns.creational.factory.product;
+package designpatterns.creational.factoryMethod.product;
 
 /**
  * Product

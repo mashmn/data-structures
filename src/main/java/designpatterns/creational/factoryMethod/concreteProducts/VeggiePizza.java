@@ -1,6 +1,6 @@
-package designpatterns.creational.factory.concreteproduct;
+package designpatterns.creational.factoryMethod.concreteProducts;
 
-import designpatterns.creational.factory.product.Pizza;
+import designpatterns.creational.factoryMethod.product.Pizza;
 
 /**
  * ConcreteProduct

@@ -1,11 +1,11 @@
-package designpatterns.creational.tests;
+package designpatterns.creational.abstractFactory;
 
-import designpatterns.creational.factory.concretecreator.PizzaFactory;
-import designpatterns.creational.factory.creator.BasePizzaFactory;
-import designpatterns.creational.factory.product.Pizza;
+import designpatterns.creational.factoryMethod.creator.BasePizzaFactory;
+import designpatterns.creational.factoryMethod.product.Pizza;
+
 import org.junit.jupiter.api.Test;
 
-public class FactoryTest {
+public class factoryMethodTest {
 
     /**
      * Factory method pattern
@@ -22,7 +22,7 @@ public class FactoryTest {
      */
     @Test
     public void testMakePizzas() {
-        BasePizzaFactory pizzaFactory = new PizzaFactory();
+        BasePizzaFactory pizzaFactory = new designpatterns.creational.factoryMethod.concreteCreator.PizzaFactory();
         Pizza cheesePizza = pizzaFactory.createPizza("cheese");
         Pizza veggiePizza = pizzaFactory.createPizza("veggie");
     }

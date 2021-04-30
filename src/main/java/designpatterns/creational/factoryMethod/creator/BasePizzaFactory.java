@@ -1,6 +1,6 @@
-package designpatterns.creational.factory.creator;
+package designpatterns.creational.factoryMethod.creator;
 
-import designpatterns.creational.factory.product.Pizza;
+import designpatterns.creational.factoryMethod.product.Pizza;
 
 /**
  * Creator

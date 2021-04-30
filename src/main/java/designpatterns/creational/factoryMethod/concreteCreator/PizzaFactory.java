@@ -1,10 +1,10 @@
-package designpatterns.creational.factory.concretecreator;
+package designpatterns.creational.factoryMethod.concreteCreator;
 
-import designpatterns.creational.factory.product.Pizza;
-import designpatterns.creational.factory.creator.BasePizzaFactory;
-import designpatterns.creational.factory.concreteproduct.CheesePizza;
-import designpatterns.creational.factory.concreteproduct.PepperoniPizza;
-import designpatterns.creational.factory.concreteproduct.VeggiePizza;
+import designpatterns.creational.factoryMethod.product.Pizza;
+import designpatterns.creational.factoryMethod.creator.BasePizzaFactory;
+import designpatterns.creational.factoryMethod.concreteProducts.CheesePizza;
+import designpatterns.creational.factoryMethod.concreteProducts.PepperoniPizza;
+import designpatterns.creational.factoryMethod.concreteProducts.VeggiePizza;
 
 /**
  * ConcreteCreator
