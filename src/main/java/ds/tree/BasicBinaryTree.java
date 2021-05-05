@@ -1,4 +1,4 @@
-package ds;
+package ds.tree;
 
 public class BasicBinaryTree<X extends Comparable<X>>{
 
