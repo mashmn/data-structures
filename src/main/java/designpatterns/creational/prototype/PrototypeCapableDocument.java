@@ -1,9 +1,8 @@
 package designpatterns.creational.prototype;
 
 /**
- *
- * cloneDocument() - subclasses override this abstract method to return clones
- * of its objects.
+ * PrototypeCapableDocument - this is cloneable
+ * cloneDocument() - subclasses override this abstract method to return clones of its objects.
  */
 public abstract class PrototypeCapableDocument implements Cloneable {
     private String vendorName;
