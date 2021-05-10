@@ -1,5 +1,6 @@
 # Creational Design Pattern
 ## Abstract Factory
+focuses on what is made
 
 - Product \=> Pizza
 - ConcreteProduct \=> CheesePizza
