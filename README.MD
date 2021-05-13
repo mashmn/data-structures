@@ -15,4 +15,13 @@ Practice repo for Data Structures and Design Patterns
 | Factory Method | Completed | <ul><li> [x] Success </li></ul> |
 | Abstract Factory | Completed | <ul><li> [x] Success </li></ul> |
 | Prototype | Completed | <ul><li> [x] Success </li></ul> |
-| Builder | In Progress | <ul><li> [ ] Incomplete </li></ul> |
+| Builder | Completed | <ul><li> [x] Success </li></ul> |
+| Singleton | Completed | <ul><li> [x] Success </li></ul> |
+
+
+### _Creational Design Pattern:_
+| Name | Status | Test |
+| ------ | ------ | ------ |
+| Adapter | Completed | <ul><li> [x] Success </li></ul> |
+| Bridge | Completed | <ul><li> [x] Success </li></ul> |
+| Composite | Completed | <ul><li> [x] Success </li></ul> |

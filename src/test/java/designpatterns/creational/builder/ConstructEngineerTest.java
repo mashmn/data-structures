@@ -1,4 +1,4 @@
-package designpatterns.creational.abstractFactory;
+package designpatterns.creational.builder;
 
 import designpatterns.creational.builder.*;
 import org.junit.jupiter.api.Test;

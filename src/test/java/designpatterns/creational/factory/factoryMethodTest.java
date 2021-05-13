@@ -1,4 +1,4 @@
-package designpatterns.creational.abstractFactory;
+package designpatterns.creational.factory;
 
 import designpatterns.creational.factoryMethod.creator.BasePizzaFactory;
 import designpatterns.creational.factoryMethod.product.Pizza;

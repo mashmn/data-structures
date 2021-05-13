@@ -1,4 +1,4 @@
-package designpatterns.creational.abstractFactory;
+package designpatterns.creational.prototype;
 
 import designpatterns.creational.prototype.DocumentPrototypeManager;
 import designpatterns.creational.prototype.PrototypeCapableDocument;
