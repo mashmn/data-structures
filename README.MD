@@ -19,9 +19,10 @@ Practice repo for Data Structures and Design Patterns
 | Singleton | Completed | <ul><li> [x] Success </li></ul> |
 
 
-### _Creational Design Pattern:_
+### _Structural Design Pattern:_
 | Name | Status | Test |
 | ------ | ------ | ------ |
 | Adapter | Completed | <ul><li> [x] Success </li></ul> |
 | Bridge | Completed | <ul><li> [x] Success </li></ul> |
 | Composite | Completed | <ul><li> [x] Success </li></ul> |
+| Decorator | Completed | <ul><li> [x] Success </li></ul> |
